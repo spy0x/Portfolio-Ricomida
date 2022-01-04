@@ -7,11 +7,26 @@
 body {
  background: #FFFFFF;
  color: #373A3C;
- font-family: 'Open Sans', sans-serif;
- font-weight: 400;
+ font-family: 'Roboto', sans-serif;
+ font-weight: 300;
  font-size: 16px;
+ color: #212529;
 }
-.bg-navbar {
+.product-title {
+ font-size: 20px;
+ font-weight: 300;
+}
+i {
+ font-size: 13px;
+}
+.textinfo{
+ font-size: 13px;
+}
+.offer-text {
+ color: #28A745;
+ font-weight: 500;
+}
+/*.bg-navbar {
  background-color: #E83E8C;
 }
 header h1 {
@@ -19,12 +34,9 @@ header h1 {
  color: #707070;
  font-size: 60px;
  font-weight: 700;
-}
-.card h5 {
- font-size: 17px;
- font-weight: 700;
-}
-.card li{
+}*/
+
+/*.card li{
  font-size: 11px;
 }
 .card-body a{
@@ -50,4 +62,4 @@ header h1 {
 footer {
  height: 184px;
  background-color: #E83E8C;
-}
+}*/
