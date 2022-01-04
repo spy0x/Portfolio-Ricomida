@@ -26,6 +26,10 @@ i {
  color: #28A745;
  font-weight: 500;
 }
+h3{
+ font-weight: 500;
+ font-size: 21px;
+}
 /*.bg-navbar {
  background-color: #E83E8C;
 }
