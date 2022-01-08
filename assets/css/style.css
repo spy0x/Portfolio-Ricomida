@@ -21,11 +21,19 @@ body {
 .smalltextsize{
     font-size: 16px;
 }
-footer {
-    height: 360px;
+.footer-a {
     background-color: #DC3545;
+    background-size: auto;
+}
+.footer-b {
+    background-color: #373A3C;
+    background-size: auto;
 }
 footer h2{
-    display: inline-block;
-    vertical-align: middle;
+    font-weight: 700;
+    font-size: 40px;
+}
+footer h3{
+    font-size: 30px;
+    font-weight: 400;
 }
