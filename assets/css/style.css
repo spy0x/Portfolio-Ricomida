@@ -7,11 +7,17 @@
 body {
     background: #FFFFFF;
     font-family: 'Cabin', sans-serif;
-    font-weight: 300;
-    font-size: 16px;
-    color: #212529;
+    font-weight: 400;
+    font-size: 20px;
+    color: #373A3C;
 }
 .logo {
     font-family: 'Lobster', cursive;
     font-size: 37px;
+}
+.boldtext{
+    font-weight: 700;
+}
+.smalltextsize{
+    font-size: 16px;
 }
