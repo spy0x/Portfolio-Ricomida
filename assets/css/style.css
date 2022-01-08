@@ -21,3 +21,11 @@ body {
 .smalltextsize{
     font-size: 16px;
 }
+footer {
+    height: 360px;
+    background-color: #DC3545;
+}
+footer h2{
+    display: inline-block;
+    vertical-align: middle;
+}
