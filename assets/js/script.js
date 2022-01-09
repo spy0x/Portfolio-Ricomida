@@ -19,7 +19,7 @@ $(document).ready(function()
 	{
 		$(".ShowHide").toggle();
 	});
-//	$('.carousel').carousel();
+	$('.carousel').carousel();
 /*
 	$("#carouselExampleIndicators").carousel();
 	$(".carousel-item").click(function()
