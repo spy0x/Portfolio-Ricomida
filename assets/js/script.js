@@ -14,4 +14,9 @@ $(document).ready(function()
 			"color": "red",
 		});
 	});
+
+	$(".ToggleOnOff").click(function()
+	{
+		$(".ShowHide").toggle();
+	});
 });
