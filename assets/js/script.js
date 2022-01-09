@@ -5,13 +5,13 @@ var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
 return new bootstrap.Tooltip(tooltipTriggerEl)
 })
 
-/*
-$(document).ready(function(){
-$("enviarCorreo").click(function(){
-$(this).css({
-	"color": "red",
-	"font-size": "2em"
+$(document).ready(function()
+{
+	$(".ToRed").dblclick(function()
+	{
+		$(this).css(
+		{
+			"color": "red",
+		});
+	});
 });
-});
-});
-*/
