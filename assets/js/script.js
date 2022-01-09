@@ -20,15 +20,4 @@ $(document).ready(function()
 		$(".ShowHide").toggle();
 	});
 	$('.carousel').carousel();
-/*
-	$("#carouselExampleIndicators").carousel();
-	$(".carousel-item").click(function()
-		{
-		$("#carouselExampleIndicators").carousel(1);
-		});
-	$(".left").click(function()
-		{
-		$("#carouselExampleIndicators").carousel("prev");
-		});
-*/
 });
