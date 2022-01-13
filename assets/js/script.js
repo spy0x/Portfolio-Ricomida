@@ -19,5 +19,4 @@ $(document).ready(function()
 	{
 		$(".ShowHide").toggle();
 	});
-	$('.carousel').carousel();
 });
